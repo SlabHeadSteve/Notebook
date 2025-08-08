@@ -3,15 +3,13 @@
 <html>
 <head>
 <title>Notes</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-iframe {
-  width: 100%;
-  height: 100vh;
-  border: none;
-}
+body { margin: 0; padding: 0; }
+iframe { width: 100%; height: 100vh; border: none; }
 </style>
 </head>
 <body>
-<iframe src="https://youtube.com"></iframe>
+<iframe src="https://www.croxyproxy.com/"></iframe>
 </body>
 </html>
